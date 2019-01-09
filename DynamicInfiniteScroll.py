@@ -9,3 +9,6 @@ while True:
     if newHeight == lastHeight:
         break
     lastHeight = newHeight
+
+    
+    
