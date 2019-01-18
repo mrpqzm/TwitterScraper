@@ -1,4 +1,5 @@
 loopCounter = 0
+
 lastHeight = browser.execute_script("return document.body.scrollHeight")
 while True:
     if loopCounter > 499:
